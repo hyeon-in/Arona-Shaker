@@ -49,6 +49,10 @@
 
 효과음은 [Universal Sound FX](https://imphenzia.com/universal-sound-fx)를 Unity Asset Store에서 구매하여 사용하였습니다. 해당 효과음은 타인에게 제공되는 것이 금지되어 있으므로, Asset 파일에 포함되지 않았습니다.
 
+### 사용된 에셋
+
+- [DOTween](https://github.com/Demigiant/dotween)
+
 ### 폰트
 - [경기천년체](https://www.gg.go.kr/contents/contents.do?ciIdx=679&menuId=2457)
 
